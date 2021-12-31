@@ -1,0 +1,7 @@
+python -m pip install plotly
+python -m pip install pandas
+python -m pip install numpy
+python -m pip install matplotlib
+python -m pip install streamlit
+python -m pip install streamlit_player
+python -m pip install sklearn
