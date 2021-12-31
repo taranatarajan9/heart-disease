@@ -1,6 +1,4 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
+
 import plotly.express as px
 import streamlit as st
 from streamlit_player import st_player
